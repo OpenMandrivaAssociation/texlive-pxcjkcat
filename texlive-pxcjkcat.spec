@@ -5,7 +5,7 @@
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-pxcjkcat
-Version:	20121030
+Version:	20131019
 Release:	1
 Summary:	TeXLive pxcjkcat package
 Group:		Publishing
