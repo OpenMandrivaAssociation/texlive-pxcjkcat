@@ -5,8 +5,8 @@
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-pxcjkcat
-Version:	20131019
-Release:	9
+Version:	1.0
+Release:	1
 Summary:	TeXLive pxcjkcat package
 Group:		Publishing
 URL:		http://tug.org/texlive
