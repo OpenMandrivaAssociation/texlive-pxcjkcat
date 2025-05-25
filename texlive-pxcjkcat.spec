@@ -1,6 +1,6 @@
 Name:		texlive-pxcjkcat
-Version:	63967
-Release:	2
+Version:	74144
+Release:	1
 Summary:	TeXLive pxcjkcat package
 Group:		Publishing
 URL:		https://tug.org/texlive
